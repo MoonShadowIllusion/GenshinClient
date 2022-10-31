@@ -1,0 +1,7 @@
+/.idea
+
+/venv
+
+/make_protos_to_proto_dir.py
+
+test.py
